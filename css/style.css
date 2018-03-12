@@ -231,10 +231,11 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     width: 80%;
     margin: 35px;
   }
-  header.masthead .intro-text .intro-lead-in {
-    font-size: 2em;
+  header.masthead .intro-text .intro-lead-in,
+  header.masthead .intro-text .intro-lead-out {
+    font-size: 1.8em;
     line-height: 1em;
-    margin: 0 30px;
+    margin: 25px 30px;
   }
   header.masthead .intro-text .intro-heading {
     font-size: 3em;
