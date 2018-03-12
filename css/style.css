@@ -87,6 +87,13 @@ header.masthead .intro-text .intro-lead-in {
   color: #212662;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+header.masthead .intro-text .intro-lead-out {
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 25px;
+  color: #fff;
+}
 
 header.masthead .intro-text .intro-heading {
   font-size: 50px;
